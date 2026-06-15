@@ -1,0 +1,3 @@
+TODO SPRUCE THIS UP, THIS IS JUST FOR ME TOO KEEP TRACK
+
+https://loshkinoleg.github.io/cheatsheets/CMakeLists_Cheatsheet - CMake Help
